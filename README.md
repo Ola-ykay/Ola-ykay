@@ -8,8 +8,8 @@ I'm a Data Analyst | Frontend Developer. I bring a unique perspective to interac
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I love beading and one of my favorite hobbies is surfing the internet.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 I enjoy documenting my learning journey
+- 😊 I’m open to collaborate on data analysis projects, volunteer and otherwise
 - 💼 Job interests: Data Analyst
 
 ---
